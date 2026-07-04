@@ -1,0 +1,10 @@
+PAN : ABCDE1234F
+PAN Status : VALID
+Aadhaar : 98764321234
+Aadhaar Status : INVALID
+--------------------------------
+PAN : ABCDE1234F
+PAN Status : VALID
+Aadhaar : 861677564186
+Aadhaar Status : VALID
+--------------------------------
